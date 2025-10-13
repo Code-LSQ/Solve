@@ -4,8 +4,9 @@ https://github.com/201853910/VMwareWorkstation/releases
 https://packages.vmware.com/tools/releases/
 VMware Tools 仓库
 
-吾爱破解论坛的映梓制作了精简版，稳定性稍差一点，不过也很不错，我母亲正在用。
+吾爱破解论坛的映梓制作了精简版。
 https://www.52pojie.cn/thread-1965033-1-1.html
+个人感觉稳定性稍差一点，不过也很不错，我正在用精简版的VMware Workstation Pro 17.5.2，本体190M，还有几M的驱动程序。
 
 VMware Workstation Pro 12.5.9 Build 7535481 PC&PE 精简注册版（-安装好即注册，原生虚拟磁盘映射功能，可根据需求个性化选择安装组件，支持Windows 7，硬件要求低）。
 VMware Workstation Pro 15.5.7 Build 17171714 PC&PE.exe精简注册版（修改添加 DELL SLIC2.7 + MSDM + SLP + Virtual PC XP
