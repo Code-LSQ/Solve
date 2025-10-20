@@ -27,8 +27,10 @@ https://techdocs.broadcom.com/cn/zh-cn/vmware-cis/desktop-hypervisors/workstatio
 https://www.52pojie.cn/thread-1965033-1-1.html
 
 VMware Workstation Pro 12.5.9 Build 7535481 PC&PE 精简注册版（-安装好即注册，原生虚拟磁盘映射功能，可根据需求个性化选择安装组件，支持Windows 7，硬件要求低）。
+
 VMware Workstation Pro 15.5.7 Build 17171714 PC&PE.exe精简注册版（修改添加 DELL SLIC2.7 + MSDM + SLP + Virtual PC XP
 -集成CDK，安装好即注册，原生虚拟磁盘映射功能，VM15最后一个支持Windows 7的版本，硬件要求中）。
+
 VMware Workstation Pro 17.5.2 Build 23775571 PC&PE 精简注册版（修改添加 DELL SLIC2.7 + MSDM + SLP + Virtual PC XP
 -集成CDK，安装好即注册，无虚拟磁盘映射功能，支持安装Windows 11虚拟系统，硬件要求高）,是最后一个未移除Unity模式、蓝牙等功能的版本。
 
@@ -43,10 +45,15 @@ VMware Workstation Pro 17.5.2 Build 23775571 PC&PE 精简注册版（修改添�
 
 主要特色：
 -修改添加 APPLE OSK，可以安装 MAC OS X（无需再使用Unlocker MacOS 解锁补丁：https://github.com/DrDonk/unlocker/releases/、https://github.com/DrDonk/unlocker/archive/master.zip）
+
 -集成CDK，安装好即注册
+
 -集成VC运行库，在未安装VC运行库的系统上也能正常运行
+
 -BIOS 支持OEM激活 Windows XP, 2003, 2003R2, Vista, 2008, Win7, 2008R2, 2012, 2012R2, 2016, 2019、2022、2025
+
 -EFI BIOS 支持OEM激活 Vista, 2008, Win, 2008R2, 2012, 2012R2, 2016, 2019、2022、2025
+
 -VISTA~2025 对安装盘无要求，导入OEM证书和系统版本对应的OEM-CDK即可激活（DELL SLIC2.7证书、CDK自行搜索）
 
 若修改并用 EFI BIOS，编辑虚拟机设置 – 选项 – 高级 – 勾选“通过 EFI 而非 BIOS 引导
@@ -79,6 +86,7 @@ https://techdocs.broadcom.com/cn/zh-cn/vmware-cis/vsphere/tools/12-0-0.html
 
 
 VMware Tools 12.4.0 及更高版本已弃用 Unity 模式。
+
 VMware Tools 12.5.3 及更高版本不再支持简体中文。使用已弃用语言的用户将不会再收到这些语言的更新或支持。
 
 
